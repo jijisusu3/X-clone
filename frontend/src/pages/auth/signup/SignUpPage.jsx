@@ -30,7 +30,7 @@ const SignUpPage = () => {
   return (
     <div className="max-w-screen-xl mx-auto flex h-screen px-10">
       <div className="flex-1 hidden lg:flex items-center  justify-center">
-        <XSvg className=" lg:w-2/3 fill-white" />
+        <XSvg className="lg:w-2/3 fill-white" />
       </div>
       <div className="flex-1 flex flex-col justify-center items-center">
         <form
